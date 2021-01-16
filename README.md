@@ -5,7 +5,7 @@
 
 
 
- - it clone https://github.com/AleixoLeonardo/stock-quote-manager.git
+ - git clone https://github.com/AleixoLeonardo/stock-quote-manager.git
 
  - cd stock-quote-manager
 
